@@ -41,7 +41,7 @@ Los estudiantes las utilizan para:
 
 ![imagenIA2](https://img.innovaciondigital360.com/wp-content/uploads/2024/08/30174347/alucinaciones-de-la-ia.jpg)
 
-#### Desafíos y Futuro
+### Desafíos y Futuro
 
 Si bien la influencia es mayormente positiva, plantea desafíos. Es crucial
 desarrollar la **alfabetización** en IA para que los estudiantes aprendan 
