@@ -38,3 +38,5 @@ Los estudiantes las utilizan para:
 * Generar resúmenes de textos complejos.
 * Explicar conceptos difíciles con analogías simples.
 * Crear ejercicios de práctica o simulaciones.
+
+![imagenIA2](https://img.innovaciondigital360.com/wp-content/uploads/2024/08/30174347/alucinaciones-de-la-ia.jpg)
