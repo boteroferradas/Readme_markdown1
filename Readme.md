@@ -53,3 +53,13 @@ y la resolución de **problemas complejos**, en lugar de la simple memorización
 de datos. La IA está redefiniendo lo que significa ser un aprendiz en el 
 siglo XXI. 🚀
 
+A continuacion dejare una tabla resumiendo estos puntos:
+
+|                        | Ventajas        | Desventajas                                                                      |
+|------------------------|-----------------|----------------------------------------------------------------------------------|
+| Personalizacion        | Aprendizaje adaptado al ritmo individual y estilo (tutoría de IA). ✅ | Riesgo de dependencia excesiva del tutor IA, limitando la autonomía. ❌           |
+| Acceso al Conocimiento | Democratización del acceso a información global (traducción, resúmenes). ✅ | Posibilidad de generar información incorrecta o inexacta (alucinaciones). ❌      |
+| Eficiencia y Tareas    | Ahorro de tiempo en tareas rutinarias (resumir, generar ejercicios). ✅ | Disminución de la memoria o habilidades básicas (cálculo, escritura original). ❌ |
+| Habilidades Cognitivas | Permite centrarse en el pensamiento crítico, creatividad y resolución de problemas. ✅ | Riesgo de plagio académico y pérdida de la integridad del trabajo propio. ❌      |
+| Brecha Digital         | Herramientas disponibles en múltiples plataformas (móvil, web). ✅ | La brecha tecnológica puede ampliarse si no hay acceso equitativo a las herramientas. ❌ |
+| Relacion Educador      | El docente se enfoca en la mentoría y el apoyo emocional. ✅ | Desplazamiento o redefinición del rol del profesor tradicional. ❌                |
