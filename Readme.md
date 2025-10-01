@@ -40,3 +40,16 @@ Los estudiantes las utilizan para:
 * Crear ejercicios de práctica o simulaciones.
 
 ![imagenIA2](https://img.innovaciondigital360.com/wp-content/uploads/2024/08/30174347/alucinaciones-de-la-ia.jpg)
+
+#### Desafíos y Futuro
+
+Si bien la influencia es mayormente positiva, plantea desafíos. Es crucial
+desarrollar la **alfabetización** en IA para que los estudiantes aprendan 
+a usar estas herramientas de manera crítica y ética, evitando 
+la dependencia y el plagio. En última instancia, la IA no reemplazará 
+a los educadores ni a la curiosidad humana, sino que los potenciará, 
+enfocando el aprendizaje más en el **pensamiento crítico**, la creatividad 
+y la resolución de **problemas complejos**, en lugar de la simple memorización
+de datos. La IA está redefiniendo lo que significa ser un aprendiz en el 
+siglo XXI. 🚀
+
